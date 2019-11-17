@@ -37,6 +37,8 @@
 	self.silentModeLabel.hidden = YES;
 	self.materialView.alpha = 0;
 	self.materialView.hidden = YES;
+	self.slider.alpha = 0;
+	self.slider.hidden = YES;
 }
 -(void)setFrame:(CGRect)frame
 {
