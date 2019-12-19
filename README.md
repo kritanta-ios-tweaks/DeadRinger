@@ -1,3 +1,3 @@
 # DeadRinger
 
-Minimalist Mute Icon for iPhone X on iOS 13
+Minimalist Mute Icon on iOS 13
