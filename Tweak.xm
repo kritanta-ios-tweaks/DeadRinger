@@ -37,6 +37,24 @@ static bool isNotched()
                 return YES;
                 break;
             }
+                // iPhone 12 MINI
+            case 2340:
+            {
+                return YES;
+                break;
+            }
+                // iPhone 12/12 PRO
+            case 2532:
+            {
+                return YES;
+                break;
+            }
+                // iPhone 12 PRO MAX
+            case 2778:
+            {
+                return YES;
+                break;
+            }
             default:
             {
                 return NO;
